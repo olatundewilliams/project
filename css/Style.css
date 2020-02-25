@@ -1,0 +1,9 @@
+#mainbody { background-color:grey; 
+	margin: 0px 50px 0px 50px;}
+.navigation {background-color: white;}
+.expense {background-image: url(../images/section-bg.jpg); 
+	background-repeat: no-repeat; 
+	background-size: cover;
+	background-blend-mode:darken;}
+#bookmark > img {max-width: 100%;
+	max-height: 100%;}
